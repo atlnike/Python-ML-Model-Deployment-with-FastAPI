@@ -7,8 +7,8 @@ This project demonstrates how to deploy a machine learning model as a web servic
 - FastAPI
 - Scikit-learn (RandomForestClassifier)
 - Joblib
-- Docker (optional)
-
+- Docker
+  
 ## Getting Started
 
 ### 1. Train the model
