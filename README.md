@@ -15,3 +15,8 @@ This project demonstrates how to deploy a machine learning model as a web servic
 
 "```bash
 python app/train.py"
+
+## 🔐 Authentication
+
+All POST requests to `/predict` require an `Authorization` header:
+
